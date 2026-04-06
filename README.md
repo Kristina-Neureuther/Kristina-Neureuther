@@ -36,9 +36,6 @@ def maintain_digital_hygiene():
             purge_and_replace(target="privacy_shield")
             print("Hygiene rule applied: Less is more. 🛡️")
         
-        status = "System resilient and sanitized."
-        return status
-
 ---
 
 ### 🕊️ Instructions for a Peaceful Mind
