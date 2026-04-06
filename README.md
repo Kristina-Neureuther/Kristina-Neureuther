@@ -14,6 +14,7 @@
   "status": "Active Research & Analysis"
 }
 
+```text
 # Systemic Integrity Protocol v2.6.4
 def maintain_digital_hygiene():
     """
@@ -39,7 +40,7 @@ def maintain_digital_hygiene():
 ---
 
 ### 🕊️ Instructions for a Peaceful Mind
-```bash
+```text
 $ i̶m̶a̶g̶i̶n̶e̶_y̶o̶u̶r̶_o̶w̶n̶_s̶p̶a̶c̶e̶.sh --mode: ZEN
 
 "You have to think for yourself." Yoko Ono ✨
