@@ -15,6 +15,19 @@
 }
 
 
+"### 🕊️ Instructions for a Peaceful Mind:"
+
+"You have to think for yourself." "Yoko Ono ✨"
+
+"[ACTION] Clearing_the_noise... [DONE]"
+"[STATUS] Mind: Independent."
+"[STATUS] Traces: Minimized."
+
+"> Digital_Hygiene: PURE ☀️"
+"> Algorithmic_Resilience: ACTIVE"
+"> Sovereignty: RESTORED"
+
+
 "🤖 Systemic Integrity Protocol v2.6.4"
 
 "def maintain_digital_hygiene():"
@@ -30,15 +43,3 @@
        
        
 
-
-"### 🕊️ Instructions for a Peaceful Mind:"
-
-"You have to think for yourself." "Yoko Ono ✨"
-
-"[ACTION] Clearing_the_noise... [DONE]"
-"[STATUS] Mind: Independent."
-"[STATUS] Traces: Minimized."
-
-"> Digital_Hygiene: PURE ☀️"
-"> Algorithmic_Resilience: ACTIVE"
-"> Sovereignty: RESTORED"
