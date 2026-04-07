@@ -1,4 +1,4 @@
-# [Kristina Neureuther]
+# Kristina Neureuther
 
 ---
 
@@ -11,7 +11,7 @@
     "Semantic Encryption Concepts",
     "Systemic Robustness Analysis"
   ],
-  "status": "Active Research & Analysis"
+  "status": "Free"
 }
 
 
@@ -41,5 +41,3 @@
    "while True:"
         "status =" "System resilient and sanitized."
        
-       
-
