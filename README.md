@@ -9,6 +9,7 @@
   "focus_areas": [
     "System Design",
     "Semantic Encryption Concepts",
+    "Algorithmic Reconfiguration"
     "Systemic Robustness Analysis"
   ],
   "status": "Independent."
